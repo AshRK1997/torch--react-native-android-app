@@ -51,7 +51,7 @@ torchSwitch = () => {
           <Button
             onPress={this.torchSwitch}
             title="Press Me"
-            style={{width: '100%', height: '100%', fontSize: 1, color: 'transparent',backgroundColor: 'transparent'}}
+            style={{width: '100%', height: '100%', fontSize:1, color: 'transparent',backgroundColor: 'transparent'}}
 
           />
         </View>
